@@ -1,0 +1,22 @@
+{
+  "name": "css-grid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "browser-sync start --server --files \"*.css, *.html, *.js\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddoniddoni/css-grid.git"
+  },
+  "author": "DDoni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ddoniddoni/css-grid/issues"
+  },
+  "homepage": "https://github.com/ddoniddoni/css-grid#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
